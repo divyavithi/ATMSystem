@@ -1,0 +1,7 @@
+# ninja log v5
+0	48	1702082070839332245	CMakeFiles/PartB.dir/atm.c.o	5377855bcf85a079
+0	43	1702082070831332260	CMakeFiles/PartB.dir/db_editor.c.o	943f0449de5aea8b
+0	52	1702059794182311435	CMakeFiles/PartB.dir/semaphore.c.o	7e50f518c9f117b2
+0	60	1702082486159053122	CMakeFiles/PartB.dir/db_server.c.o	366c5ba1c51c3dc4
+43	119	1702082070907332116	CMakeFiles/PartB.dir/msg_queue.c.o	ae6a1500f427e93d
+49	122	1702082070915332101	CMakeFiles/PartB.dir/shared_mem.c.o	1c219695c2f97e58
