@@ -1,4 +1,4 @@
-# SYSC 4001 Assignment 3 Part B
+# ATM System using Concurrent Processes and IPC Services
 
 This program mimics a simple ATM system using concurrent processes and IPC services.
 ## Setup
